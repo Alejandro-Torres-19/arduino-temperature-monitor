@@ -202,20 +202,16 @@ El programa actualiza la lectura de temperatura aproximadamente una vez por segu
 
 ## 📚 Documentation / Documentación
 
-The project includes supporting technical documentation:
+The project includes the following technical documents:
 
-- 📘 User Manual / Manual de Usuario
-- 🔧 Preventive and Corrective Maintenance Manual / Manual de Mantenimiento Preventivo y Correctivo
-- 📊 Project Presentation / Presentación del proyecto
-- 🔌 Circuit Diagram / Diagrama del circuito
+- 📘 [User Manual / Manual de Usuario](user-manual.pdf)
+- 🔧 [Preventive and Corrective Maintenance Manual / Manual de Mantenimiento](maintenance-manual.pdf)
+- 📊 [Project Presentation / Presentación del proyecto](project-presentation.pdf)
+- 🔌 [Circuit Diagram / Diagrama del circuito](circuit-diagram.jpeg)
 
-These documents provide additional information about system operation, maintenance, calibration, troubleshooting, and technical considerations.
+These documents provide additional information about system operation, maintenance, calibration, troubleshooting, and circuit design.
 
-Estos documentos proporcionan información adicional sobre el funcionamiento del sistema, el mantenimiento, la calibración, la solución de problemas y las consideraciones técnicas.
-
-*Documentation files will be linked here once they have been uploaded to the repository.*
-
-*Los documentos se enlazarán aquí una vez que hayan sido cargados al repositorio.*
+Estos documentos proporcionan información adicional sobre el funcionamiento del sistema, el mantenimiento, la calibración, la solución de problemas y el diseño del circuito.
 
 ---
 
